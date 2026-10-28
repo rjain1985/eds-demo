@@ -1,0 +1,7 @@
+{
+  "mappings":[
+    "/content/eds-with-ue/:/",
+    "/content/eds-with-ue/metadata:/metadata.json",
+    "/content/eds-with-ue/configuration:/.helix/config.json"
+  ]
+}
